@@ -1,1 +1,1 @@
-# ai-sentence-transform-detector
+# ai-sentence-transform-classifier
